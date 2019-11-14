@@ -1,0 +1,27 @@
+{
+  "name": "@ricadesign/vuex-cart",
+  "version": "1.0.0",
+  "description": "Vuex cart that connects with laravel-cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricadesign/vuex-rica.git"
+  },
+  "keywords": [
+    "vuex",
+    "cart",
+    "rica"
+  ],
+  "author": "Cristian Payet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricadesign/vuex-rica/issues"
+  },
+  "homepage": "https://github.com/Ricadesign/vuex-rica#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
